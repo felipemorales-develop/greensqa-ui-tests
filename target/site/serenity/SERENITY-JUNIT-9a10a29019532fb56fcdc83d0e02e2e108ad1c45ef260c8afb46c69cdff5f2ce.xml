@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Búsqueda de vuelos en Latam" skipped="0" tests="1" time="0.25" timestamp="2025-07-03 05:15:51"><testcase name="Usuario busca vuelo ida y vuelta nacional"><error message="No stage available - it looks like you haven't called the setTheStage() method before calling this one." type="net.serenitybdd.screenplay.actors.NoStageException">No stage available - it looks like you haven't called the setTheStage() method before calling this one.</error><system-err>No stage available - it looks like you haven't called the setTheStage() method before calling this one.&#13;
+net.greensqa.stepdefinitions.BusquedaVuelosStepDefinitions.seleccionarOrigen(BusquedaVuelosStepDefinitions.java:17)&#13;
+✽.selecciona origen "Bogotá"(file:///C:/Users/tadeu/latam-ui-tests/src/test/resources/features/vuelos/busqueda_vuelo.feature:5)&#13;
+</system-err></testcase></testsuite>
